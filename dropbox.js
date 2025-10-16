@@ -1,4 +1,5 @@
 //npm install dropbox
+//REACT_APP_DROPBOX_ACCESS_TOKEN=YOUR_ACCESS_TOKEN_HERE
 
 import React, { useState } from "react";
 import { Dropbox } from "dropbox";
